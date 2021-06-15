@@ -30,6 +30,12 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
+
+
+
+
+
+
 ### NODE JS
 ### EXPRESS
 ### JAVASCRIPT
@@ -39,7 +45,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 ### GITHUB
 
 ### LEARNING:
-
 ### REACT
 ### SQL
 ### MYSQL
