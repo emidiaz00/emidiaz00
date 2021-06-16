@@ -20,7 +20,7 @@ I'm Emi! I'm a **Web Developer**:iphone:, looking to solve **real-world problems
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code:man_technologist: 3-4 hours a day with no distraction ( Every day. ) 
 * Read:newspaper: Dev and UI articles daily 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * 🔜
