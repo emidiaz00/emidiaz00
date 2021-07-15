@@ -12,6 +12,7 @@ I'm Emi! looking to solve **real-world problems**:earth_asia:. I am passionate a
 [![Gmail](https://img.shields.io/badge/-emidiaz00-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:emildsn00@gmail.com)
 
 ### 💼  Things that I'm currently working on: 
+* Learning QA Automation: Selenium
 * Learning Front-End Web:computer: Development
 * Learning Back-End Web:computer: Development
 * Learning SQL and MYSQL databases
@@ -33,6 +34,11 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 
 
+
+### QA Automation:
+### Cypress
+### Selenium
+### Python
 
 
 
