@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Emi! I am a person who always tries to solve the daily problems that arise in my work day, I always try that the client is satisfied with my work, I consider myself a person who never stops learning, I am a very curious person if something I do not know, I seek information, read and learn! I also have knowledge in testing and web development, currently I work as QA Software Tester in VATES S.A - Software. Knowledge in: Serenity,Cucumber,Selenium WebDriver, Javascript, Postman, Git, SQL, Java, Jira, Confluence, Openshift, Winscp, CSS, HTML.
+I'm Emi! I am a person who always tries to solve the daily problems that arise in my work day, I always try that the client is satisfied with my work, I consider myself a person who never stops learning, I am a very curious person if something I do not know, I seek information, read and learn! I also have knowledge in testing and web development, currently I work as QA Automation at IncluIT - Software. Knowledge in: Serenity,Cucumber,Selenium WebDriver, Javascript, Postman, Git, SQL, Java, Jira, Confluence, Openshift, Winscp, CSS, HTML.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
